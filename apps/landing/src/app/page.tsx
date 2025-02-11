@@ -13,11 +13,11 @@ export default function Home() {
           <div className="flex flex-col gap-8 ">
             <nav className="flex flex-row items-center justify-between w-full ">
               <h1 className="text-4xl font-bold">
-                <Link href="/">Augment</Link>
+                <Link href="/">Augmented</Link>
               </h1>
             </nav>
             <h2 className="text-2xl font-semibold flex flex-col gap-2 border-l-2 border-orange-9 pl-4 bg-orange-1 rounded-lg rounded-l-none">
-              <span>Open Source Longevity System</span>
+              <span>Open Source AI Agent for Longevity</span>
               <span className="flex flex-wrap gap-2">
                 <span className="text-slate-11">Live</span>
                 <span className="text-orange-9 font-bold">Longer</span>
